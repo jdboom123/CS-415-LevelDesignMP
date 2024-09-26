@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/johndelarmedilla/Documents/Unreal Projects/CS415_LevelDesign 5.4/Content/LearningKit_Games/Assets/Props/Powerups/Powerup_A/Material/MI_Healthpack.uasset",
+				"/Users/johndelarmedilla/Documents/Unreal Projects/CS415_LevelDesign 5.4/Content/LearningKit_Games/Assets/Props/Powerups/Powerup_A/SM_HealthCrystal.uasset",
+				"/Users/johndelarmedilla/Documents/Unreal Projects/CS415_LevelDesign 5.4/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"/Users/johndelarmedilla/Documents/Unreal Projects/CS415_LevelDesign 5.4/Content/LearningKit_Games/Assets/Props/Powerups/Powerup_A/Blueprints/BP_HealthCrystal.uasset",
+				"/Users/johndelarmedilla/Documents/Unreal Projects/CS415_LevelDesign 5.4/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"/Users/johndelarmedilla/Documents/Unreal Projects/CS415_LevelDesign 5.4/Content/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.uasset",
+				"/Users/johndelarmedilla/Documents/Unreal Projects/CS415_LevelDesign 5.4/Content/LearningKit_Games/Assets/Props/Powerups/Powerup_A/SM_Powerup_01_Shard05.uasset",
+				"/Users/johndelarmedilla/Documents/Unreal Projects/CS415_LevelDesign 5.4/Content/LearningKit_Games/Assets/Props/Powerups/Powerup_A/SM_Powerup_A.uasset",
+				"/Users/johndelarmedilla/Documents/Unreal Projects/CS415_LevelDesign 5.4/Content/LearningKit_Games/UserInterface/WB_GameOverScreen.uasset",
+				"/Users/johndelarmedilla/Documents/Unreal Projects/CS415_LevelDesign 5.4/Content/LearningKit_Games/Blueprints/Pickups/BP_HealthCrystal.uasset",
+				"/Users/johndelarmedilla/Documents/Unreal Projects/CS415_LevelDesign 5.4/Content/LearningKit_Games/UserInterface/WB_HealthBar.uasset",
+				"/Users/johndelarmedilla/Documents/Unreal Projects/CS415_LevelDesign 5.4/Content/LearningKit_Games/Blueprints/Pickups/BP_Collectable.uasset",
+				"/Users/johndelarmedilla/Documents/Unreal Projects/CS415_LevelDesign 5.4/Content/LearningKit_Games/UserInterface/WB_Score.uasset",
+				"/Users/johndelarmedilla/Documents/Unreal Projects/CS415_LevelDesign 5.4/Content/LearningKit_Games/Blueprints/Enemies/Pursuer_BP.uasset",
+				"/Users/johndelarmedilla/Documents/Unreal Projects/CS415_LevelDesign 5.4/Content/LearningKit_Games/Blueprints/Enemies/Pursuer_AIController.uasset",
+				"/Users/johndelarmedilla/Documents/Unreal Projects/CS415_LevelDesign 5.4/Content/LearningKit_Games/Blueprints/Enemies/EAIState.uasset",
+				"/Users/johndelarmedilla/Documents/Unreal Projects/CS415_LevelDesign 5.4/Content/LearningKit_Games/Blueprints/Enemies/BP_Pursuer.uasset",
+				"/Users/johndelarmedilla/Documents/Unreal Projects/CS415_LevelDesign 5.4/Content/LearningKit_Games/Assets/Characters/Character/Mesh/SK_Pursuer.uasset"
+			]
+		}
+	]
+}
